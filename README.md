@@ -1,1 +1,1 @@
-# Reconecimento_Facial_OpenCV
+# Reconecimento_Facial_OpenCV.
